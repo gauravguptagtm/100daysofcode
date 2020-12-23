@@ -1,0 +1,8 @@
+Article-Links:
+-> Shell-sort:
+https://www.youtube.com/watch?v=9crZRd8GPWM
+-> Article on Array:
+https://www.geeksforgeeks.org/array-data-structure/
+https://www.geeksforgeeks.org/arrays-in-c-cpp/
+https://www.geeksforgeeks.org/pointer-vs-array-in-c/
+https://www.geeksforgeeks.org/pointer-array-array-pointer/
