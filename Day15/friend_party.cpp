@@ -11,8 +11,8 @@ int count(int n)
     }
     if(n==2) return 2;
     return count(n-1)+(n-1)*count(n-2);
-
 }
+
 int main(){
     int n;
     cin>>n;
