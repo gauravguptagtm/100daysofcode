@@ -50,14 +50,19 @@ void insert(int info, int pos){
         return;
     }
     int i=0;
-    while(i<pos-1 and curr!=NULL)
+    while(i<pos-1)
     {
+        if(curr==NULL)
+        {
+            return;
+        }
         curr=curr->next;
         i++;
     }
     ptr->next=curr->next;
     curr->next=ptr;
 }
+
 
 int main(){
     create();
