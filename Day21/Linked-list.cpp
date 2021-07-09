@@ -67,6 +67,4 @@ void insert(int info, int pos){
 int main(){
     create();
     display();
-    insert(20,6);
-    display();
 }
